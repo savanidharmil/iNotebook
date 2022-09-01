@@ -1,0 +1,4 @@
+npm  run start
+for mongoDB run (which is backend folder) : npx nodemon@latest server.js
+					OR  nodemon ./index.js
+
